@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/raju-asapogu/raju-asapogu/blob/master/my_git_banner.png" alt="GitHub Banner" width="800"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Raju Asapogu</h1>
 <h3 align="center">A passionate devops engineer from India</h3>
 
